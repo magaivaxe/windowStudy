@@ -10,7 +10,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ * Use this classe for customs entries as entry condition and booleans and String
+ * Else use the class Scanner with yours methods to int, double and float
  * @author Marcos Paulo Salgado Gomes
  */
 public class KeyboardEntry
@@ -98,18 +99,5 @@ public class KeyboardEntry
         }
         return number;
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
 }
