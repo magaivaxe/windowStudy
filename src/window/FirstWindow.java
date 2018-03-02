@@ -24,8 +24,6 @@ public class FirstWindow extends JFrame implements MouseListener
         //setSize(500, 500);
         //Change the dimension values and window position: x, y, width, height
         setBounds(650, 200, 600, 600);
-        //Window visible as boolean
-        setVisible(true);
         //This window will be himself the listener of mouse events. But the listener
         //can be other class 
         addMouseListener(this);

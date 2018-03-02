@@ -22,6 +22,8 @@ public class Window
         //Class instantiation by inheriting
         window = new FirstWindow();
         
+        //Window visible as boolean
+        window.setVisible(true);
         
     }
     
